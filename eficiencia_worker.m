@@ -1,3 +1,4 @@
+% calculo de las eficiecias para una sola longitud de onda
 function [Qsca, Qext, Qabs]=eficiencia_worker(lambda, indice, nmax, radio)
     qsca = 0;
     qext = 0;
