@@ -1,3 +1,4 @@
+% Programa sin paralelización implementada
 function Q=eficiencia(indices,lambdas,nmax,a)
 
 
